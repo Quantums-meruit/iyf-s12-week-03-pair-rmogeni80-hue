@@ -1,1 +1,1 @@
-Conflict 2
+This is a completely different line from branch 2
